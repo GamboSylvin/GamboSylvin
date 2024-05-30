@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm the fun fact😄. i like cool environments, but hate unserious work environments
 
 ## My Tech Stack
-![JS Logo](https://github.com/GamboSylvin/Image-Folder/blob/main/jsLogo.png"Javascript")
+![https://github.com/GamboSylvin/Image-Folder/blob/main/jsLogo.png](https://github.com/GamboSylvin/Image-Folder/blob/main/jsLogo.png?raw=true)
 
 <!---
 GamboSylvin/GamboSylvin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
