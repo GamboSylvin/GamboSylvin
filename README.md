@@ -3,7 +3,7 @@
 - 👀 my current centers of interest are basketball, music and new IT technologies
 - 🌱 I’m currently learning clean code, Typescript, Robotics engineering and chinese
 - 💞️ I’m looking forward to collaborate on new projects of any types, (i like challenges!!)
-- 📫 you can get me through : sylviangams@gmail.com
+- 📫 you can get me through : gambogiovan@gmail.com
 - 😄 Pronouns: HE
 - ⚡ Fun fact: I'm the fun fact😄. i like cool environments, but hate unserious work environments
 
